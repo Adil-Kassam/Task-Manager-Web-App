@@ -1,5 +1,5 @@
 
-# Team *Lynx Small Group project
+# Group Project - Team Lynx
 
 ## Team members
 The members of the team are:
