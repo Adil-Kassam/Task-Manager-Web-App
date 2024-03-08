@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/python,django,virtualenv,linux,macos,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,django,virtualenv,linux,macos,windows
 
@@ -17,6 +18,10 @@ media
 
 ### Django.Python Stack ###
 # Byte-compiled / optimized / DLL files
+=======
+# Byte-compiled / optimized / DLL files
+__pycache__/
+>>>>>>> bb2cff6e13fda6719273fc5e319854799f8160e3
 *.py[cod]
 *$py.class
 
@@ -70,8 +75,18 @@ cover/
 
 # Translations
 *.mo
+<<<<<<< HEAD
 
 # Django stuff:
+=======
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+>>>>>>> bb2cff6e13fda6719273fc5e319854799f8160e3
 
 # Flask stuff:
 instance/
@@ -106,7 +121,26 @@ ipython_config.py
 #   install all needed dependencies.
 #Pipfile.lock
 
+<<<<<<< HEAD
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
+=======
+# poetry
+#   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
+#   This is especially recommended for binary packages to ensure reproducibility, and is more
+#   commonly ignored for libraries.
+#   https://python-poetry.org/docs/basic-usage/#commit-your-poetrylock-file-to-version-control
+#poetry.lock
+
+# pdm
+#   Similar to Pipfile.lock, it is generally recommended to include pdm.lock in version control.
+#pdm.lock
+#   pdm stores project-wide configurations in .pdm.toml, but it is recommended to not include it
+#   in version control.
+#   https://pdm.fming.dev/#use-with-ide
+.pdm.toml
+
+# PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
+>>>>>>> bb2cff6e13fda6719273fc5e319854799f8160e3
 __pypackages__/
 
 # Celery stuff
@@ -149,6 +183,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+<<<<<<< HEAD
 ### Linux ###
 *~
 
@@ -296,3 +331,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/python,django,virtualenv,linux,macos,windows
+=======
+# PyCharm
+#  JetBrains specific template is maintained in a separate JetBrains.gitignore that can
+#  be found at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
+#  and can be added to the global gitignore or merged into this file.  For a more nuclear
+#  option (not recommended) you can uncomment the following to ignore the entire idea folder.
+#.idea/
+>>>>>>> bb2cff6e13fda6719273fc5e319854799f8160e3

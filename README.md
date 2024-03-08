@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Team *Lynx Small Group project
 
 ## Team members
@@ -51,3 +52,6 @@ $ python3 manage.py test
 The packages used by this application are specified in `requirements.txt`
 
 *Declare are other sources here, and remove this line*
+=======
+# Task-Manager-Web-App
+>>>>>>> bb2cff6e13fda6719273fc5e319854799f8160e3
