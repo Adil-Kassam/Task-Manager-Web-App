@@ -57,3 +57,29 @@ The packages used by this application are specified in `requirements.txt`
 
 # Task-Manager-Web-App
 
+The application is a collaborative task management system built using Django, featuring the following core functionalities:
+
+1. **User Authentication and Authorization:** Users can create accounts, log in securely, and manage their profiles within the system.
+
+2. **Team Formation:** Users have the ability to create teams and invite other users to join their teams, facilitating collaboration among team members.
+
+3. **Task Management:** Each user can create tasks, assign them to team members, and set due dates to ensure timely completion.
+
+4. **Dashboard:** The application provides a centralized dashboard where users can view and manage tasks assigned to them, as well as tasks assigned to their teams.
+
+To enhance the system further, additional features can be implemented:
+
+1. **Task Search and Filtering:** Users can search, order, and filter tasks based on various criteria such as name, completion status, priority, due date ranges, assigned developer, or team/project.
+
+2. **Priority System:** A priority system is introduced, allowing users to assign priority levels to tasks and filter them accordingly. Automated reminders are provided for high-priority tasks nearing their due dates.
+
+3. **Task Dependencies:** Users can establish dependencies between tasks, enabling the application to adjust task timelines based on these dependencies.
+
+4. **Time Tracking:** Integration of a time tracking feature enables users to log time spent on each task and generate summary reports of time spent over different periods.
+
+5. **Activity Log:** An activity log records user actions within the application, providing an audit trail for accountability and transparency.
+
+6. **Notification System:** A notification system alerts users about task assignments and upcoming due dates, ensuring timely communication and task management.
+
+7. **Gamification Elements:** To motivate users, gamification elements such as achievement badges, leaderboards, or a points system based on task completion can be introduced, fostering engagement and productivity.
+
