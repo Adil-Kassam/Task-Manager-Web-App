@@ -3,10 +3,10 @@
 
 ## Team members
 The members of the team are:
+- Adil Kassam
 - Hasan Issa
 - Lewis Kai Ho Wong
 - Fardeen Idrus
-- Adil Kassam
 - Bruno Miguel Fonseca Cavaca
 
 ## Project structure
