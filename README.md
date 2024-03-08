@@ -75,11 +75,7 @@ To enhance the system further, additional features can be implemented:
 
 3. **Task Dependencies:** Users can establish dependencies between tasks, enabling the application to adjust task timelines based on these dependencies.
 
-4. **Time Tracking:** Integration of a time tracking feature enables users to log time spent on each task and generate summary reports of time spent over different periods.
+4. **Notification System:** A notification system alerts users about task assignments and upcoming due dates, ensuring timely communication and task management.
 
-5. **Activity Log:** An activity log records user actions within the application, providing an audit trail for accountability and transparency.
-
-6. **Notification System:** A notification system alerts users about task assignments and upcoming due dates, ensuring timely communication and task management.
-
-7. **Gamification Elements:** To motivate users, gamification elements such as achievement badges, leaderboards, or a points system based on task completion can be introduced, fostering engagement and productivity.
+5. **Gamification Elements:** To motivate users, gamification elements such as achievement badges, leaderboards, or a points system based on task completion can be introduced, fostering engagement and productivity.
 
